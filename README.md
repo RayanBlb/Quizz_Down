@@ -6,5 +6,5 @@ Quizz_Down est un jeu android permettant de tester ses capacités en réseau et 
 - Java
 
 ```
-Auteur : Rayan Benlacheheb ©
+Auteurs : Rayan Benlacheheb & Théo Peltier ©
 ```
